@@ -1,4 +1,18 @@
 # 76th_Kouhaku_subtitle_subsetted_chs
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a 
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+本翻译作品由[创意共享 署名—非商业性使用 (CC BY-NC) 4.0 协议国际版][cc-by-nc-chs]授權。
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-chs]: https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
 聯合字幕。一人繞遠路回家字幕組僅作為寄存者，不正式署名。
 
 本版字幕渲染效果以 mpv 播放器为基准进行调校，为确保最佳观赏体验，建议使用 mpv、其衍生版本或以 mpv 为核心引擎的播放器，不推荐使用 PotPlayer、MPC、VLC 等其他播放器。
