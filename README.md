@@ -4,7 +4,7 @@
 This work is licensed under a 
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-本翻译作品由[创意共享 署名—非商业性使用 (CC BY-NC) 4.0 协议国际版][cc-by-nc-chs]授權。
+本翻译作品由[创意共享 署名—非商业性使用 (CC BY-NC) 4.0 协议国际版][cc-by-nc-chs]授权。
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
