@@ -1,0 +1,2 @@
+# 76th_Kouhaku_subtitle_subsetted_chs
+适用于NHK BSP4K的第76届红白歌会简体中文字幕
